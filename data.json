@@ -1,0 +1,106 @@
+[
+    {"Pizza": [
+        {
+            "name":"Margherita",
+            "description":"Pizza Margherita is a typical Neapolitan pizza, made with San Marzano tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil.",
+            "quantity":"410 Gram 10 Inches",
+            "price":"20",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+        },
+        {
+            "name":"Mac and Cheese",
+            "description":"Take pizza night to the next level with Macaroni and Cheese Pizza.",
+            "quantity":"580 Gram 12 Inches",
+            "price":"27",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Kartoffel_pizza_%28with_border%29.jpg"
+        },
+        {
+            "name":"Fresh Pan",
+            "description":"Baked fresh to order in a pan, amazingly soft, crunchy, buttery and extra cheesy, each bite of Pan Pizza promises to tantalize your taste buds.",
+            "quantity":"360 Gram 8 Inches",
+            "price":"18",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/b/ba/New_York-Style_Pizza.png"
+        }
+    ]}, 
+    {"Sushi": [
+        {
+            "name":"Chirashizushi",
+            "description":"Chirashizushi  serves the rice in a bowl and tops it with a variety of raw fish and vegetable garnishes.",
+            "quantity":"210 Gram 10 Pieces",
+            "price":"16",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/5/55/Large_plate_of_sushis_-_panoramio.jpg"
+        },
+        {
+            "name":"Inarizushi",
+            "description":"Inarizushi is a pouch of fried tofu typically filled with sushi rice alone.",
+            "quantity":"300 Gram 8 Pieces",
+            "price":"22",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Osaka-style_sushi_-_RD_Kitchen_-_Sarah_Stierch.jpg"
+        },
+        {
+            "name":"Makizushi",
+            "description":"Makizushi is usually cut into six or eight pieces, which constitutes a single roll order.",
+            "quantity":"350 Gram 12 Pieces",
+            "price":"24",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/c/ca/Chirashi_zushi_by_Marshall_Astor_in_Gardena%2C_CA.jpg"
+        }
+    ]},
+    {"Drinks": [
+        {
+            "name":"Coca Cola",
+            "description":"Coca-Cola is a carbonated soft drink manufactured by The Coca-Cola Company.",
+            "quantity":"350 ml",
+            "price":"10",
+            "currencySymbol":"USD",
+            "image":"https://en.wikipedia.org/wiki/Coca-Cola#/media/File:15-09-26-RalfR-WLC-0098.jpg"
+        },
+        {
+            "name":"Pepsi",
+            "description":"Pepsi is a carbonated soft drink manufactured by PepsiCo.",
+            "quantity":"470 ml",
+            "price":"12",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/0/0a/Classic_Pepsi_bottles_in_supermarket_in_Kyiv.JPG"
+        },
+        {
+            "name":"Fanta",
+            "description":"Fanta is a brand of fruit-flavored carbonated soft drink.",
+            "quantity":"300 ml",
+            "price":"8",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/FantaChina.jpg"
+        }
+    ]}, 
+    {"Dessert": [
+        {
+            "name":"Cake",
+            "description":"Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked.",
+            "quantity":"700 Gram",
+            "price":"32",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/0/04/Pound_layer_cake.jpg"
+        },
+        {
+            "name":"Ice cream",
+            "description":"Ice cream is a sweetened frozen food typically eaten as a snack or dessert.",
+            "quantity":"470 Gram",
+            "price":"7",
+            "currencySymbol":"USD",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg"
+        },
+        {
+            "name":"Doughnut",
+            "description":"Doughnut is a type of fried dough confection or dessert food.",
+            "quantity":"250 Gram 4 Pieces",
+            "price":"15",
+            "currencySymbol":"USD",
+            "image":"https://en.wikipedia.org/wiki/Doughnut#/media/File:Jack's_Donuts.jpg"
+        }
+    ]}
+]
